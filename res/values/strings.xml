@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IOIO Dual Analog Input</string>
+    <string name="x_text">X:</string>
+    <string name="y_text">Y:</string>
+    <string name="zero">0</string>
+
+</resources>
